@@ -28,7 +28,7 @@ I partner with founders to architect measurable software across FinTech, AI disc
 
 #### CPU Usage Monitor
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=ffffff&show_icons=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=ffffff&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=3600)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Voice-driven sci-fi narrative engine.
 
 ### Commit Consistency Protocol
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b14ckPanther&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=f97316&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=38bdf8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b14ckPanther&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=f97316&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=38bdf8&type=svg)
 
 </td>
 </tr>
