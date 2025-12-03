@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create output directory
+        run: mkdir -p output
 
       - name: Generate GitHub Contribution Grid Snake
         uses: platane/snk@master
@@ -29,6 +34,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "Update snake animation [skip ci]" || exit 0
+          git diff --staged --quiet || git commit -m "Update snake animation [skip ci]"
           git push
 
