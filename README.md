@@ -130,12 +130,12 @@
 <tr>
 <td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=3b82f6&text_color=ffffff&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=3b82f6&text_color=ffffff&show_icons=true&cache_seconds=86400)
 
 </td>
 <td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b14ckPanther&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff&layout=compact&langs_count=8&cache_seconds=86400)
 
 </td>
 </tr>
