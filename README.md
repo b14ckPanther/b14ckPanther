@@ -1,349 +1,462 @@
 <div align="center">
 
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!-- HERO -->
+<!-- ====================================================== -->
 
-<!-- SYSTEM HEADER -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:0f172a,100:0ea5e9&text=NOOR%20MOUSA&fontColor=f8fafc&fontSize=52&fontAlignY=39&desc=Product%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=60&descSize=17"
+/>
 
-<!-- ========================================================= -->
-
-![Status](https://readme-typing-svg.herokuapp.com/?lines=System:+ONLINE+//+Full+Stack+%26+AI+Engineer;Building:+Darb+//+YellowShifts;Web+%2B+Mobile+%2B+AI+//+Built+for+real-world+use;Location:+Haifa,+Israel\&font=JetBrains%20Mono\&center=true\&width=900\&height=34\&duration=2800\&pause=1400\&color=38bdf8\&size=19\&vCenter=true)
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!-- INTRO / PROFILE -->
-
-<!-- ========================================================= -->
-
-<table width="100%">
-<tr>
-<td width="61%" valign="top">
-
-### Engineering products, not just features.
-
-I design and build **production-grade web and mobile products** with a strong focus on architecture, UI/UX, performance, and real-world usability.
-
-My work sits at the intersection of **full-stack engineering, product systems, AI-assisted development, and premium interface design** — from multi-tenant SaaS platforms to workforce operations and customer-facing business experiences.
-
-I care about the entire system:
-
-`Product → UX → Architecture → Data → Security → Performance → Delivery`
-
-Currently building **Darb**, a modular Business Experience Platform, alongside **YellowShifts**, a multi-station workforce operations system.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=19&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&repeat=true&width=780&height=35&lines=Designing+products+people+actually+want+to+use.;Engineering+the+systems+that+make+them+work.;Currently+building+Darb+%2B+YellowShifts."
+  alt="Typing SVG"
+/>
 
 <br/>
 
-#### Connect
+<a href="https://www.linkedin.com/in/nmprofessor/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://nm97portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:nmcryptoinvest@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/noormosa.97/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nmprofessor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge\&logo=About.me\&logoColor=white)](https://nm97portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nmcryptoinvest@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/noormosa.97/)
+<br/><br/>
 
-</td>
+<sub>
+I build product systems end-to-end — from idea and interaction design to architecture,
+data, security, deployment and the final pixels.
+</sub>
 
-<td width="39%" valign="top">
+<br/><br/>
 
-#### Runtime
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0ea5e9&section=header"
+  width="72%"
+/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b14ckPanther\&theme=tokyonight\&hide_border=true\&bg_color=0f172a\&title_color=0ea5e9\&icon_color=38bdf8\&text_color=ffffff\&show_icons=true\&include_all_commits=true\&count_private=true\&cache_seconds=3600)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ========================================================= -->
-
+<!-- ====================================================== -->
 <!-- CURRENTLY BUILDING -->
+<!-- ====================================================== -->
 
-<!-- ========================================================= -->
+<div align="center">
 
-### Current Systems
+<h2>CURRENTLY BUILDING</h2>
 
-<table width="100%">
-<tr>
+<sub>
+Two very different products. One obsession with making software feel exceptionally well made.
+</sub>
 
-<td width="50%" valign="top">
-
-#### Darb — درب
-
-**Business Experience Platform**
-
-A modular, multi-tenant platform giving businesses the digital tools that actually fit how they operate.
-
-Restaurants, bookings, business pages, commerce, and future vertical-specific engines share one secure platform foundation while keeping their own specialized workflows.
-
-**Architecture**
-
-`Next.js · TypeScript · Supabase · PostgreSQL`
-`Turborepo · pnpm · Vercel`
-
-**Core focus**
-
-Multi-tenant architecture · role-based access · multi-location businesses · multilingual RTL/LTR · media systems · custom branding · public storefronts · modular product engines
-
-[![Darb](https://img.shields.io/badge/darb.co.il-Visit_Darb-0f172a?style=for-the-badge\&labelColor=0ea5e9)](https://darb.co.il)
-
-</td>
-
-<td width="50%" valign="top">
-
-#### YellowShifts
-
-**Workforce Operations**
-
-A multi-station workforce management system designed around the operational reality of gas-station teams.
-
-It handles employee availability, shift planning, attendance, station verification, roles, reporting, notifications, and manager workflows across multiple locations.
-
-**Architecture**
-
-`Flutter · Dart · Supabase · PostgreSQL`
-
-**Core focus**
-
-Multi-station access · scheduling · attendance · NFC / station verification · realtime operations · audit trails · role-aware workflows · mobile-first UX
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ========================================================= -->
+<h3>01 / DARB — درب</h3>
 
-<!-- STACK -->
+<blockquote>
+  <strong>A modular Business Experience Platform for the way real businesses operate.</strong>
+  <br/><br/>
+  Darb gives different business types their own purpose-built digital engine while keeping
+  identity, infrastructure, data, media and platform capabilities under one foundation.
+</blockquote>
 
-<!-- ========================================================= -->
+<a href="https://darb.co.il">
+  <img src="https://img.shields.io/badge/OPEN_DARB-darb.co.il-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
+</a>
 
-<table width="100%">
-<tr>
-<td>
+<br/><br/>
 
-### Stack Deck
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turborepo-111827?style=flat-square&logo=turborepo&logoColor=EF4444"/>
+<img src="https://img.shields.io/badge/pnpm-111827?style=flat-square&logo=pnpm&logoColor=F69220"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-#### Web & Product Layer
+<br/><br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
+<strong>Platform direction</strong>
 
-#### Mobile Layer
+<br/><br/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+<code>Restaurants</code>
+&nbsp;·&nbsp;
+<code>Bookings</code>
+&nbsp;·&nbsp;
+<code>Business Pages</code>
+&nbsp;·&nbsp;
+<code>Commerce</code>
+&nbsp;·&nbsp;
+<code>More vertical engines</code>
 
-#### Backend & Data Layer
+<br/><br/>
 
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+<strong>What makes it interesting</strong>
 
-#### Platform & Infrastructure
+<br/><br/>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge\&logo=turborepo\&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge\&logo=pnpm\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<code>Multi-tenant SaaS</code>
+&nbsp;·&nbsp;
+<code>Multi-location businesses</code>
+&nbsp;·&nbsp;
+<code>Role-based access</code>
+&nbsp;·&nbsp;
+<code>Shared platform core</code>
+&nbsp;·&nbsp;
+<code>Vertical product engines</code>
+&nbsp;·&nbsp;
+<code>Media architecture</code>
+&nbsp;·&nbsp;
+<code>Tenant branding</code>
+&nbsp;·&nbsp;
+<code>Public experiences</code>
 
-#### AI Engineering
+<br/><br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-AI_Assisted_Engineering-111827?style=for-the-badge)
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-f97316?style=for-the-badge\&logo=openai\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!-- ENGINEERING PRINCIPLES -->
-
-<!-- ========================================================= -->
-
-### Engineering Principles
-
-<table width="100%">
-<tr>
-
-<td width="33.33%" valign="top">
-
-#### UI / UX First
-
-Interfaces should feel intentional, premium, fast, and effortless.
-
-Responsive behavior, typography, motion, loading states, hierarchy, accessibility, and interaction polish are part of engineering — not cleanup after engineering.
-
-</td>
-
-<td width="33.33%" valign="top">
-
-#### Architecture That Scales
-
-I prefer systems with clear boundaries, reusable foundations, strict tenant isolation, strong authorization, and data models built for the product they need to become.
-
-Not just the demo they are today.
-
-</td>
-
-<td width="33.33%" valign="top">
-
-#### AI as Leverage
-
-I use AI as an engineering multiplier across architecture, implementation, refactoring, research, debugging, and product iteration.
-
-The goal is not generating more code.
-
-The goal is shipping better systems faster.
-
-</td>
-
-</tr>
-</table>
+<hr/>
 
 <br/>
 
-<!-- ========================================================= -->
+<h3>02 / YELLOWSHIFTS</h3>
 
-<!-- PRODUCT DNA -->
-
-<!-- ========================================================= -->
-
-### Product DNA
-
-```text
-MULTI-TENANT      ████████████████████
-UI / UX           ████████████████████
-WEB + MOBILE      ████████████████████
-RTL / LTR         ████████████████████
-PERFORMANCE       ████████████████████
-SECURITY          ████████████████████
-AI LEVERAGE       ████████████████████
-```
-
-I regularly build for **Hebrew, Arabic, and English**, including proper RTL/LTR behavior, localized typography, responsive layouts, and business-facing experiences designed for actual daily use.
+<blockquote>
+  <strong>Workforce operations built around how station teams actually work.</strong>
+  <br/><br/>
+  A mobile-first multi-station system connecting employee availability, scheduling,
+  attendance, station verification and management workflows into one operational product.
+</blockquote>
 
 <br/>
 
-<!-- ========================================================= -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<!-- SELECTED BUILDS -->
+<br/><br/>
 
-<!-- ========================================================= -->
+<strong>Inside the system</strong>
 
-### Selected Builds
+<br/><br/>
 
-<table width="100%">
-<tr>
+<code>Scheduling</code>
+&nbsp;·&nbsp;
+<code>Availability</code>
+&nbsp;·&nbsp;
+<code>Attendance</code>
+&nbsp;·&nbsp;
+<code>NFC verification</code>
+&nbsp;·&nbsp;
+<code>Station roles</code>
+&nbsp;·&nbsp;
+<code>Realtime operations</code>
+&nbsp;·&nbsp;
+<code>Reporting</code>
+&nbsp;·&nbsp;
+<code>Audit</code>
 
-<td width="33.33%" valign="top">
+<br/><br/><br/>
 
-#### Darb
+<!-- ====================================================== -->
+<!-- TOOLBOX -->
+<!-- ====================================================== -->
 
-**Business Platform**
+<div align="center">
 
-One platform. Multiple business verticals. Specialized product engines.
-
-`Next.js · Supabase · Turborepo`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-#### YellowShifts
-
-**Workforce Operations**
-
-Multi-station scheduling, attendance, employee operations, and management workflows.
-
-`Flutter · Supabase`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-#### Caramel
-
-**Restaurant Experience**
-
-A modern multilingual restaurant experience with dynamic menu content, media, opening hours, branding, SEO, and a complete administration layer.
-
-`Next.js · Supabase`
-
-</td>
-
-</tr>
-</table>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155&section=header"
+  width="72%"
+/>
 
 <br/>
 
-<!-- ========================================================= -->
+<h2>THE TOOLBOX</h2>
 
-<!-- DEVELOPMENT PHILOSOPHY -->
+<sub>
+Technologies I reach for when they are the right tool for the product.
+</sub>
 
-<!-- ========================================================= -->
+<br/><br/>
 
-### How I Build
+<img
+  src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,postgres,supabase,vercel,git,github&perline=12"
+/>
 
-```text
-01  Understand the real workflow
-02  Design the product architecture
-03  Build the data model and security boundaries
-04  Engineer the experience UI-first
-05  Connect the full system end-to-end
-06  Test responsive, RTL/LTR and real-world states
-07  Optimize performance and interaction quality
-08  Ship, observe, refine
-```
+<br/><br/>
 
-No throwaway architecture.
+<img
+  src="https://skillicons.dev/icons?i=figma,firebase,docker,linux,vscode,npm&perline=6"
+/>
 
-No disconnected frontend/backend thinking.
+<br/><br/>
 
-No "we'll fix the UX later."
+<code>Next.js</code>
+&nbsp;
+<code>React</code>
+&nbsp;
+<code>TypeScript</code>
+&nbsp;
+<code>Flutter</code>
+&nbsp;
+<code>Supabase</code>
+&nbsp;
+<code>PostgreSQL</code>
+&nbsp;
+<code>Tailwind</code>
+&nbsp;
+<code>Vercel</code>
+
+</div>
+
+<br/><br/>
+
+<!-- ====================================================== -->
+<!-- PRODUCT CRAFT -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155&section=header"
+  width="72%"
+/>
 
 <br/>
 
-<!-- ========================================================= -->
+<h2>PRODUCT CRAFT</h2>
 
-<!-- STREAK -->
-
-<!-- ========================================================= -->
-
-<table width="100%">
-<tr>
-<td>
-
-### Commit Consistency Protocol
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b14ckPanther\&theme=tokyonight\&hide_border=true\&background=0f172a\&ring=0ea5e9\&fire=f97316\&currStreakLabel=38bdf8\&sideLabels=38bdf8\&dates=38bdf8\&type=svg)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ========================================================= -->
+<blockquote>
+  <h3>Interfaces should feel engineered.</h3>
 
+  I care about the details users may never consciously notice:
+  typography, hierarchy, spacing, motion, responsiveness, loading behavior,
+  image treatment, perceived speed and interaction feedback.
+
+  <br/><br/>
+
+  The frontend is not decoration around the product.
+  <br/>
+  <strong>It is part of the product architecture.</strong>
+</blockquote>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=999999&pause=999999&color=E2E8F0&center=true&vCenter=true&repeat=false&width=700&height=32&lines=Crafted+with+intent."
+  alt="Crafted with intent"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Heebo&weight=600&size=18&duration=999999&pause=999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=%D7%A0%D7%91%D7%A0%D7%94+%D7%A2%D7%9D+%D7%9B%D7%95%D7%95%D7%A0%D7%94."
+  alt="Hebrew"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=18&duration=999999&pause=999999&color=64748B&center=true&vCenter=true&repeat=false&width=700&height=34&lines=%D9%85%D8%A8%D9%86%D9%8A+%D8%A8%D8%B9%D9%86%D8%A7%D9%8A%D8%A9."
+  alt="Arabic"
+/>
+
+</div>
+
+<br/><br/>
+
+<!-- ====================================================== -->
+<!-- SELECTED WORK -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155&section=header"
+  width="72%"
+/>
+
+<br/>
+
+<h2>SELECTED WORK</h2>
+
+</div>
+
+<br/>
+
+<h3>Caramel</h3>
+
+<strong>Digital restaurant experience & content platform</strong>
+
+<p>
+A customer-facing restaurant experience paired with a complete administration system
+for menus, media, branding, opening hours, content and discovery.
+</p>
+
+<code>Next.js</code>
+&nbsp;·&nbsp;
+<code>Supabase</code>
+&nbsp;·&nbsp;
+<code>PostgreSQL</code>
+
+<br/><br/>
+
+<h3>BudgetPal</h3>
+
+<strong>Personal finance product</strong>
+
+<p>
+A budgeting system built around zero-based planning and financial visibility.
+</p>
+
+<code>Next.js</code>
+&nbsp;·&nbsp;
+<code>TypeScript</code>
+&nbsp;·&nbsp;
+<code>Firebase</code>
+
+<br/><br/>
+
+<h3>Nexus Chronicle</h3>
+
+<strong>Interactive narrative system</strong>
+
+<p>
+An experimental story experience combining interface design, motion and AI-driven
+narrative mechanics.
+</p>
+
+<code>Next.js</code>
+&nbsp;·&nbsp;
+<code>Framer Motion</code>
+&nbsp;·&nbsp;
+<code>LLM</code>
+
+<br/><br/><br/>
+
+<!-- ====================================================== -->
+<!-- HOW I THINK -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155&section=header"
+  width="72%"
+/>
+
+<br/>
+
+<h2>HOW I THINK</h2>
+
+<br/>
+
+<pre>
+PRODUCT
+   ↓
+EXPERIENCE
+   ↓
+SYSTEM DESIGN
+   ↓
+DATA + SECURITY
+   ↓
+IMPLEMENTATION
+   ↓
+POLISH
+   ↓
+SHIP
+</pre>
+
+</div>
+
+<br/>
+
+<p>
+I like software where <strong>product thinking and engineering happen together</strong>.
+</p>
+
+<p>
+That means understanding the actual workflow before choosing the abstraction,
+designing the system before accumulating features, and polishing the experience
+before calling the work finished.
+</p>
+
+<br/><br/>
+
+<!-- ====================================================== -->
+<!-- ACTIVITY -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155&section=header"
+  width="72%"
+/>
+
+<br/>
+
+<h2>ACTIVITY</h2>
+
+<br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b14ckPanther&theme=github_dark"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=b14ckPanther&theme=github_dark&utcOffset=3"
+/>
+
+<br/>
+
+<img
+  width="99%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b14ckPanther&theme=github_dark"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=b14ckPanther&theme=github-dark-blue&hide_border=true"
+  width="58%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=b14ckPanther&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS"
+/>
+
+<br/><br/><br/>
+
+<!-- ====================================================== -->
 <!-- FOOTER -->
+<!-- ====================================================== -->
 
-<!-- ========================================================= -->
-
-### Build systems people actually want to use.
-
-`Product Engineering · Full Stack · Mobile · Supabase · AI · UI/UX`
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:0ea5e9,50:0f172a,100:020617"
+/>
 
 </div>
