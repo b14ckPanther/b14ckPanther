@@ -7,7 +7,7 @@
 <p>I design and build production software end to end: web platforms, mobile apps,<br/>
 and the databases, APIs and infrastructure underneath them.</p>
 
-<a href="https://nm97.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nm97.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio.darb.co.il"><img src="https://img.shields.io/badge/Portfolio-portfolio.darb.co.il-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/nmprofessor/"><img src="https://img.shields.io/badge/LinkedIn-Nour_Alden_Mousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:nmcryptoinvest@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -74,7 +74,7 @@ A mobile-first system that connects employee availability, shift scheduling, att
 | **BudgetPal** | Personal finance app built around zero-based budgeting | Next.js · TypeScript · Firebase |
 | **Nexus Chronicle** | Interactive story experience combining motion design with LLM-driven narrative | Next.js · Framer Motion · LLM APIs |
 
-More case studies at **[nm97.vercel.app](https://nm97.vercel.app)**.
+More case studies at **[portfolio.darb.co.il](https://portfolio.darb.co.il)**.
 
 <br/>
 
