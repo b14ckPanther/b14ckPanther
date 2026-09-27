@@ -82,12 +82,12 @@ More case studies at **[nm97.vercel.app](https://nm97.vercel.app)**.
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,dart,py,php,html,css" height="40" alt="Languages"/> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" height="40" alt="Mobile"/> <br/><sub>Flutter · React Native · Android Studio</sub> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,bootstrap,threejs,vite" height="40" alt="Frontend"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,supabase,firebase" height="40" alt="Backend"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,js,ts,dart,py,php,html,css" height="40" alt="Languages"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react" height="40" alt="Mobile"/> <br/><sub>Flutter · React Native</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,threejs,vite" height="40" alt="Frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,supabase,firebase" height="40" alt="Backend"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" height="40" alt="Databases"/> |
-| **DevOps &amp; Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,nginx,linux,postman,figma,vscode" height="40" alt="DevOps and tools"/> |
+| **DevOps &amp; Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,nginx,linux,figma,vscode" height="40" alt="DevOps and tools"/> |
 
 <br/>
 
