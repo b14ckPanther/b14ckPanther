@@ -9,7 +9,7 @@ and the databases, APIs and infrastructure underneath them.</p>
 
 <a href="https://portfolio.darb.co.il"><img src="https://img.shields.io/badge/Portfolio-portfolio.darb.co.il-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/nmprofessor/"><img src="https://img.shields.io/badge/LinkedIn-Nour_Alden_Mousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nmcryptoinvest@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:founder@darb.co.il"><img src="https://img.shields.io/badge/Email-Get_in_touch-1F2937?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -94,7 +94,7 @@ More case studies at **[portfolio.darb.co.il](https://portfolio.darb.co.il)**.
 ## Get in Touch
 
 Open to full-time software engineering roles (full-stack, frontend or mobile).
-The fastest way to reach me is by [email](mailto:nmcryptoinvest@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nmprofessor/).
+The fastest way to reach me is by [email](mailto:founder@darb.co.il) or on [LinkedIn](https://www.linkedin.com/in/nmprofessor/).
 
 <br/>
 
