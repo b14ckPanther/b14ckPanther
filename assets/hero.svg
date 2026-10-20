@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
   <title id="t">Nour Alden Mousa</title>
-  <desc id="d">Founder and engineer of Darb. Full-stack and mobile software engineer building search, maps and apps for local businesses.</desc>
+  <desc id="d">Full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Built Darb from the ground up.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#08241a"/>
@@ -60,12 +60,12 @@
     <!-- Words -->
     <g font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
       <text x="72" y="150" fill="#fbf7ec" font-size="60" font-weight="700" letter-spacing="-1">Nour Alden Mousa</text>
-      <text x="74" y="200" fill="#f0c77a" font-size="25" font-weight="500">Founder and engineer of Darb</text>
+      <text x="74" y="200" fill="#f0c77a" font-size="25" font-weight="500">Full-stack and mobile software engineer</text>
       <rect x="74" y="230" width="380" height="2" fill="url(#rule)"/>
       <text x="74" y="276" fill="#a9b8ad" font-size="19">
-        <tspan x="74">Full-stack and mobile software engineer. I build the</tspan>
-        <tspan x="74" dy="30">search, maps and apps that connect people to local</tspan>
-        <tspan x="74" dy="30">businesses, from the data model to the last pixel.</tspan>
+        <tspan x="74">I build products end to end, from the database and</tspan>
+        <tspan x="74" dy="30">API to the last pixel. Built Darb from the ground up.</tspan>
+        <tspan x="74" dy="30" fill="#f0c77a">Open to full-time engineering roles.</tspan>
       </text>
     </g>
   </g>

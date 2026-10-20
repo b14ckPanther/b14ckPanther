@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://zangeel.dev"><img src="assets/hero.svg" width="100%" alt="Nour Alden Mousa, founder and engineer of Darb. Full-stack and mobile software engineer building the search, maps and apps that connect people to local businesses."/></a>
+<a href="https://zangeel.dev"><img src="assets/hero.svg" width="100%" alt="Nour Alden Mousa, full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Built Darb from the ground up."/></a>
 
 <br/><br/>
 
+<a href="#get-in-touch"><img src="https://img.shields.io/badge/Open_to_work-Full--time_roles-f0c77a?style=for-the-badge&labelColor=0e3527" alt="Open to work: full-time roles"/></a>
 <a href="https://zangeel.dev"><img src="https://img.shields.io/badge/Portfolio-zangeel.dev-d9a54c?style=for-the-badge&labelColor=0e3527" alt="Portfolio: zangeel.dev"/></a>
-<a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Darb-darb.co.il-f0c77a?style=for-the-badge&labelColor=0e3527" alt="Darb: darb.co.il"/></a>
 <a href="https://www.linkedin.com/in/nouraldenmousa/"><img src="https://img.shields.io/badge/LinkedIn-nouraldenmousa-1d5a43?style=for-the-badge&logo=linkedin&logoColor=fbf7ec&labelColor=0e3527" alt="LinkedIn"/></a>
 <a href="mailto:founder@darb.co.il"><img src="https://img.shields.io/badge/Email-founder@darb.co.il-1d5a43?style=for-the-badge&logo=maildotru&logoColor=fbf7ec&labelColor=0e3527" alt="Email founder@darb.co.il"/></a>
 
@@ -15,7 +15,7 @@
 
 ## Darb
 
-*Darb* means *path* in Arabic. It's what I'm building full time with my co-founder Lama: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
+*Darb* means *path* in Arabic. It's the product I designed and engineered from the ground up with my co-founder Lama: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
 
 It covers the north of Israel today. The goal is every city, town and village in the country, and to expand beyond it from there.
 
@@ -80,7 +80,7 @@ It covers the north of Israel today. The goal is every city, town and village in
 
 ## Get in touch
 
-I'm happy to talk about Darb, partnerships, local business tech, or engineering work. Email [founder@darb.co.il](mailto:founder@darb.co.il), find me on [LinkedIn](https://www.linkedin.com/in/nouraldenmousa/), or drive around [zangeel.dev](https://zangeel.dev).
+I'm looking for a full-time software engineering role: full-stack, frontend or mobile. I own features from the data model to the final UI, and Darb shows how I work at scale. Email [founder@darb.co.il](mailto:founder@darb.co.il), find me on [LinkedIn](https://www.linkedin.com/in/nouraldenmousa/), or drive around [zangeel.dev](https://zangeel.dev).
 
 <br/>
 
