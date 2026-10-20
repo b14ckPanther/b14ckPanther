@@ -6,7 +6,7 @@
 
 <a href="https://zangeel.dev"><img src="https://img.shields.io/badge/Portfolio-zangeel.dev-d9a54c?style=for-the-badge&labelColor=0e3527" alt="Portfolio: zangeel.dev"/></a>
 <a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Darb-darb.co.il-f0c77a?style=for-the-badge&labelColor=0e3527" alt="Darb: darb.co.il"/></a>
-<a href="https://www.linkedin.com/in/nmprofessor/"><img src="https://img.shields.io/badge/LinkedIn-nmprofessor-1d5a43?style=for-the-badge&logo=linkedin&logoColor=fbf7ec&labelColor=0e3527" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/nouraldenmousa/"><img src="https://img.shields.io/badge/LinkedIn-nouraldenmousa-1d5a43?style=for-the-badge&logo=linkedin&logoColor=fbf7ec&labelColor=0e3527" alt="LinkedIn"/></a>
 <a href="mailto:founder@darb.co.il"><img src="https://img.shields.io/badge/Email-founder@darb.co.il-1d5a43?style=for-the-badge&logo=maildotru&logoColor=fbf7ec&labelColor=0e3527" alt="Email founder@darb.co.il"/></a>
 
 </div>
@@ -80,7 +80,7 @@ It covers the north of Israel today. The goal is every city, town and village in
 
 ## Get in touch
 
-I'm happy to talk about Darb, partnerships, local business tech, or engineering work. Email [founder@darb.co.il](mailto:founder@darb.co.il), find me on [LinkedIn](https://www.linkedin.com/in/nmprofessor/), or drive around [zangeel.dev](https://zangeel.dev).
+I'm happy to talk about Darb, partnerships, local business tech, or engineering work. Email [founder@darb.co.il](mailto:founder@darb.co.il), find me on [LinkedIn](https://www.linkedin.com/in/nouraldenmousa/), or drive around [zangeel.dev](https://zangeel.dev).
 
 <br/>
 
