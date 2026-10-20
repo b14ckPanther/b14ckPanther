@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
   <title id="t">Nour Alden Mousa</title>
-  <desc id="d">Full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Built Darb from the ground up.</desc>
+  <desc id="d">Full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Founder of Darb, which he built from zero.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#08241a"/>
@@ -64,7 +64,7 @@
       <rect x="74" y="230" width="380" height="2" fill="url(#rule)"/>
       <text x="74" y="276" fill="#a9b8ad" font-size="19">
         <tspan x="74">I build products end to end, from the database and</tspan>
-        <tspan x="74" dy="30">API to the last pixel. Built Darb from the ground up.</tspan>
+        <tspan x="74" dy="30">API to the last pixel. Founder of Darb, built from zero.</tspan>
         <tspan x="74" dy="30" fill="#f0c77a">Open to full-time engineering roles.</tspan>
       </text>
     </g>

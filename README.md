@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://zangeel.dev"><img src="assets/hero.svg" width="100%" alt="Nour Alden Mousa, full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Built Darb from the ground up."/></a>
+<a href="https://zangeel.dev"><img src="assets/hero.svg" width="100%" alt="Nour Alden Mousa, full-stack and mobile software engineer, open to full-time roles. Builds products end to end, from the database and API to the interface. Founder of Darb, built from zero."/></a>
 
 <br/><br/>
 
@@ -15,7 +15,7 @@
 
 ## Darb
 
-*Darb* means *path* in Arabic. It's the product I designed and engineered from the ground up with my co-founder Lama: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
+*Darb* means *path* in Arabic. I founded it with Lama, my co-founder, and engineered it from the ground up: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
 
 It covers the north of Israel today. The goal is every city, town and village in the country, and to expand beyond it from there.
 
