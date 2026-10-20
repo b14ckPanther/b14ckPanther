@@ -13,9 +13,9 @@
 
 <br/>
 
-## Darb
+## Darb, my personal project
 
-*Darb* means *path* in Arabic. I founded it with Lama, my co-founder, and engineered it from the ground up: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
+**Darb is my own product, not an employer's.** *Darb* means *path* in Arabic. I founded it with Lama, my co-founder, and engineered it from the ground up: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
 
 It covers the north of Israel today. The goal is every city, town and village in the country, and to expand beyond it from there.
 
