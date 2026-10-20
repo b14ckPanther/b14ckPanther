@@ -27,12 +27,13 @@ It covers the north of Israel today. The goal is every city, town and village in
 
 **How it's built**
 
+- **Its own backend, built from zero.** No backend-as-a-service: a NestJS API we wrote ourselves for search, places, media, admin, helpers and pricing, on our own PostgreSQL schema with PostGIS and pgvector, Redis for caching and rate limits, and one set of shared zod contracts so a mismatched field between API and web fails the build, not production. The only outside service in the core is Clerk for sign-in.
 - **Two-lane search.** An instant index answers in the browser as you type. A language model then reads the intent under a strict schema and a 1.5 s budget, and matches it against what each business offers, down to single menu items. If the model is slow, the instant results stand on their own.
 - **One continuous map.** Country, town, category and business are levels of one camera on MapLibre GL, with self-hosted vector tiles on Cloudflare R2, so there's no per-view map bill and no third-party tracking.
 - **Real data with sources.** Listings come from government registers and OpenStreetMap, deduplicated and geocoded. Darb Helpers and the admin's street capture fill in the towns the open maps miss, and every addition is reviewed before it goes live.
 - **Nothing ships on a red build.** Type checks, about 1,500 unit and integration tests against a real database, Playwright on desktop and phone, WCAG AA checks on every page, per-route performance budgets and a 103-query search quality set run on every pull request.
 
-<sub>Next.js 16 · NestJS · PostgreSQL with PostGIS and pgvector · Redis · Prisma · MapLibre GL · Cloudflare R2 · Clerk · Turborepo</sub>
+<sub>Next.js 16 · NestJS · Prisma · PostgreSQL with PostGIS and pgvector · Redis · MapLibre GL · Cloudflare R2 · Railway · Vercel · Turborepo</sub>
 
 <a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Open_Darb-darb.co.il-d9a54c?style=flat-square&labelColor=0e3527" alt="Open Darb"/></a>
 <a href="https://github.com/b14ckPanther/Darb-City"><img src="https://img.shields.io/badge/Source-Darb--City-1d5a43?style=flat-square&logo=github&logoColor=fbf7ec&labelColor=0e3527" alt="Darb-City source"/></a>

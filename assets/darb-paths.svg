@@ -59,7 +59,7 @@
       </g>
     </g>
     <text x="600" y="428" fill="#fbf7ec" font-size="20" font-weight="700" text-anchor="middle">One platform</text>
-    <text x="600" y="454" fill="#a9b8ad" font-size="15.5" text-anchor="middle">accounts, data, media, maps</text>
+    <text x="600" y="454" fill="#a9b8ad" font-size="15.5" text-anchor="middle">our own API, data, media, maps</text>
 
     <!-- Left nodes -->
     <g>
