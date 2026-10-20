@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+  <title id="t">Nour’s World</title>
+  <desc id="d">A playable 3D portfolio. Drive an island where every landmark is a product. Walk through a house that holds the CV. Explore with other visitors in real time. A 2D route for reading instead of driving. Built with Three.js, WebGL, multiplayer. zangeel.dev</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08241a"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="24" fill="url(#bg)" stroke="#1d5a43" stroke-opacity="0.8"/>
+  <path d="M 470 86 L 520 60 L 570 86 L 520 112 Z" fill="none" stroke="#f0c77a" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M 488 86 C 505 76 535 96 552 86" fill="none" stroke="#f0c77a" stroke-width="2.2" stroke-dasharray="5 5"/>
+  <path d="M 520 70 V 46 L 534 52 L 520 58" fill="none" stroke="#f0c77a" stroke-width="2.4" stroke-linejoin="round"/>
+  <g font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <text x="40" y="76" fill="#fbf7ec" font-size="32" font-weight="700" letter-spacing="-0.4">Nour’s World</text>
+  <text fill="#a9b8ad" font-size="18.5"><tspan x="40" y="114">A playable 3D portfolio. Drive an island</tspan><tspan x="40" dy="26">where every landmark is a product.</tspan></text>
+  <path d="M 44 190 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="196" fill="#efe8d6" font-size="18">Walk through a house that holds the CV</text>
+  <path d="M 44 224 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="230" fill="#efe8d6" font-size="18">Explore with other visitors in real time</text>
+  <path d="M 44 258 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="264" fill="#efe8d6" font-size="18">A 2D route for reading instead of driving</text>
+  <path d="M 40 290 H 560" stroke="#0e3527"/>
+  <text x="40" y="318" fill="#7f978a" font-size="15.5">Three.js, WebGL, multiplayer</text>
+  <text x="560" y="318" fill="#f0c77a" font-size="16" font-weight="500" text-anchor="end">zangeel.dev</text>
+  </g>
+</svg>

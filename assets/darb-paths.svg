@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">The apps that run on Darb</title>
+  <desc id="d">One platform with paths to every app. Darb's own apps: Darb for search and the map, Darb Helpers for friends who add businesses from their towns, and Darb Admin for adding from the street and approving. Apps businesses run on Darb: Darb REST, YellowShifts, Caramel and Raghad Beauty.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#051811"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="600" cy="290" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9a54c" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#d9a54c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0c77a"/>
+      <stop offset="1" stop-color="#b9852f"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="560" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <rect width="1200" height="560" fill="url(#bg)"/>
+    <rect width="1200" height="560" fill="url(#glow)"/>
+
+    <g fill="#a9b8ad" font-size="17">
+      <text x="44" y="62">Darb's own apps</text>
+      <text x="1156" y="62" text-anchor="end">Apps businesses run on Darb</text>
+    </g>
+
+    <!-- Paths -->
+    <g fill="none" stroke="#b9852f" stroke-width="2" stroke-opacity="0.55">
+      <path id="l1" d="M 548 296 C 480 296 460 152 400 152"/>
+      <path id="l2" d="M 548 296 C 480 296 460 292 400 292"/>
+      <path id="l3" d="M 548 296 C 480 296 460 432 400 432"/>
+      <path id="r1" d="M 652 296 C 730 296 760 132 836 132"/>
+      <path id="r2" d="M 652 296 C 730 296 760 240 836 240"/>
+      <path id="r3" d="M 652 296 C 730 296 760 348 836 348"/>
+      <path id="r4" d="M 652 296 C 730 296 760 456 836 456"/>
+    </g>
+
+    <!-- Light travelling along each path -->
+    <g fill="#f0c77a">
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="0s"><mpath href="#l1" xlink:href="#l1"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="1.6s"><mpath href="#l2" xlink:href="#l2"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="3.2s"><mpath href="#l3" xlink:href="#l3"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="0.8s"><mpath href="#r1" xlink:href="#r1"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="2.1s"><mpath href="#r2" xlink:href="#r2"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="3.4s"><mpath href="#r3" xlink:href="#r3"/></animateMotion></circle>
+      <circle r="3.5"><animateMotion dur="5s" repeatCount="indefinite" begin="4.4s"><mpath href="#r4" xlink:href="#r4"/></animateMotion></circle>
+    </g>
+
+    <!-- The door in the middle -->
+    <g stroke-linejoin="round" transform="translate(600 296) scale(0.62) translate(-930 -218)">
+      <path d="M 930 74 L 1058 142 L 930 210 L 802 142 Z" fill="#1d5a43" stroke="#1d5a43" stroke-width="10"/>
+      <path d="M 802 142 L 930 210 L 930 362 L 802 294 Z" fill="#0b2d21" stroke="#0b2d21" stroke-width="10"/>
+      <path d="M 930 210 L 1058 142 L 1058 294 L 930 362 Z" fill="#14473a" stroke="#14473a" stroke-width="10"/>
+      <g transform="translate(930 210) skewY(-28)">
+        <path d="M 30 152 V 72 A 34 34 0 0 1 98 72 V 152 Z" fill="url(#gold)"/>
+        <path d="M 30 152 V 72 A 34 34 0 0 1 98 72 V 152" fill="none" stroke="#fbf7ec" stroke-width="14" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="600" y="428" fill="#fbf7ec" font-size="20" font-weight="700" text-anchor="middle">One platform</text>
+    <text x="600" y="454" fill="#a9b8ad" font-size="15.5" text-anchor="middle">accounts, data, media, maps</text>
+
+    <!-- Left nodes -->
+    <g>
+      <rect x="36" y="112" width="364" height="80" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="86" cy="152" r="22" fill="#0e3527"/>
+      <circle cx="84" cy="150" r="8" fill="none" stroke="#f0c77a" stroke-width="2.4"/>
+      <path d="M 90 156 L 96 162" stroke="#f0c77a" stroke-width="2.4" stroke-linecap="round"/>
+      <text x="124" y="145" fill="#fbf7ec" font-size="21" font-weight="700">Darb</text>
+      <text x="124" y="171" fill="#a9b8ad" font-size="16">Search and map of every business</text>
+
+      <rect x="36" y="252" width="364" height="80" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="86" cy="292" r="22" fill="#0e3527"/>
+      <path d="M 86 282 V 302 M 76 292 H 96" stroke="#f0c77a" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="124" y="285" fill="#fbf7ec" font-size="21" font-weight="700">Darb Helpers</text>
+      <text x="124" y="311" fill="#a9b8ad" font-size="16">Friends add businesses in their towns</text>
+
+      <rect x="36" y="392" width="364" height="80" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="86" cy="432" r="22" fill="#0e3527"/>
+      <path d="M 77 432 L 84 439 L 96 425" fill="none" stroke="#f0c77a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="124" y="425" fill="#fbf7ec" font-size="21" font-weight="700">Darb Admin</text>
+      <text x="124" y="451" fill="#a9b8ad" font-size="16">Add from the street, review, approve</text>
+    </g>
+
+    <!-- Right nodes -->
+    <g>
+      <rect x="836" y="98" width="320" height="68" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="874" cy="132" r="19" fill="#0e3527"/>
+      <path d="M 864 130 A 10 10 0 0 0 884 130 Z" fill="none" stroke="#f0c77a" stroke-width="2.2" stroke-linejoin="round"/>
+      <text x="906" y="127" fill="#fbf7ec" font-size="19" font-weight="700">Darb REST</text>
+      <text x="906" y="150" fill="#a9b8ad" font-size="15">Menus and WhatsApp ordering</text>
+
+      <rect x="836" y="206" width="320" height="68" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="874" cy="240" r="19" fill="#0e3527"/>
+      <path d="M 868 233 A 9 9 0 0 1 868 247 M 874 228 A 15 15 0 0 1 874 252" fill="none" stroke="#f0c77a" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="864" cy="240" r="2.5" fill="#f0c77a"/>
+      <text x="906" y="235" fill="#fbf7ec" font-size="19" font-weight="700">YellowShifts</text>
+      <text x="906" y="258" fill="#a9b8ad" font-size="15">Shifts and NFC clock-in</text>
+
+      <rect x="836" y="314" width="320" height="68" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="874" cy="348" r="19" fill="#0e3527"/>
+      <path d="M 874 336 C 868 345 866 350 866 353 A 8 8 0 0 0 882 353 C 882 350 880 345 874 336 Z" fill="none" stroke="#f0c77a" stroke-width="2.2" stroke-linejoin="round"/>
+      <text x="906" y="343" fill="#fbf7ec" font-size="19" font-weight="700">Caramel</text>
+      <text x="906" y="366" fill="#a9b8ad" font-size="15">A menu that pours as you scroll</text>
+
+      <rect x="836" y="422" width="320" height="68" rx="18" fill="#08241a" stroke="#1d5a43"/>
+      <circle cx="874" cy="456" r="19" fill="#0e3527"/>
+      <path d="M 874 444 Q 876 454 886 456 Q 876 458 874 468 Q 872 458 862 456 Q 872 454 874 444 Z" fill="none" stroke="#f0c77a" stroke-width="2" stroke-linejoin="round"/>
+      <text x="906" y="451" fill="#fbf7ec" font-size="19" font-weight="700">Raghad Beauty</text>
+      <text x="906" y="474" fill="#a9b8ad" font-size="15">Beauty storefront and WhatsApp orders</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="559" rx="27.5" fill="none" stroke="#1d5a43" stroke-opacity="0.6"/>
+</svg>

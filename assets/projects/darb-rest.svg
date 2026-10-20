@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+  <title id="t">Darb REST</title>
+  <desc id="d">Digital menus and WhatsApp ordering for restaurants and cafés. Nine templates, previewed before going live. Cart totals verified on the server. Plans and prices live in the database. Built with Next.js, Supabase, Turborepo. rest.darb.co.il</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08241a"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="24" fill="url(#bg)" stroke="#1d5a43" stroke-opacity="0.8"/>
+  <rect x="484" y="40" width="72" height="64" rx="8" fill="none" stroke="#f0c77a" stroke-width="2.6"/>
+  <rect x="494" y="50" width="18" height="18" fill="none" stroke="#f0c77a" stroke-width="2.4"/>
+  <rect x="528" y="50" width="18" height="18" fill="none" stroke="#f0c77a" stroke-width="2.4"/>
+  <rect x="494" y="76" width="18" height="18" fill="none" stroke="#f0c77a" stroke-width="2.4"/>
+  <path d="M 528 78 H 534 V 84 H 540 V 78 H 546 M 528 92 H 546" stroke="#f0c77a" stroke-width="2.4" fill="none"/>
+  <g font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <text x="40" y="76" fill="#fbf7ec" font-size="32" font-weight="700" letter-spacing="-0.4">Darb REST</text>
+  <text fill="#a9b8ad" font-size="18.5"><tspan x="40" y="114">Digital menus and WhatsApp ordering for</tspan><tspan x="40" dy="26">restaurants and cafés, run by the owners.</tspan></text>
+  <path d="M 44 190 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="196" fill="#efe8d6" font-size="18">Nine templates, previewed before going live</text>
+  <path d="M 44 224 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="230" fill="#efe8d6" font-size="18">Cart totals verified on the server</text>
+  <path d="M 44 258 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="264" fill="#efe8d6" font-size="18">Plans and prices live in the database</text>
+  <path d="M 40 290 H 560" stroke="#0e3527"/>
+  <text x="40" y="318" fill="#7f978a" font-size="15.5">Next.js, Supabase, Turborepo</text>
+  <text x="560" y="318" fill="#f0c77a" font-size="16" font-weight="500" text-anchor="end">rest.darb.co.il</text>
+  </g>
+</svg>

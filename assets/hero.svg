@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Nour Alden Mousa</title>
+  <desc id="d">Founder and engineer of Darb. Full-stack and mobile software engineer building search, maps and apps for local businesses.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08241a"/>
+      <stop offset="0.55" stop-color="#051811"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="935" cy="230" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9a54c" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#d9a54c" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#d9a54c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0c77a"/>
+      <stop offset="1" stop-color="#b9852f"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d5a43"/>
+      <stop offset="1" stop-color="#14473a"/>
+    </linearGradient>
+    <linearGradient id="left" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e3527"/>
+      <stop offset="1" stop-color="#08241a"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#164a37"/>
+      <stop offset="1" stop-color="#0b2d21"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d9a54c"/>
+      <stop offset="1" stop-color="#d9a54c" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="420" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#glow)"/>
+
+    <!-- The path to the door: draws once on load -->
+    <path d="M 430 432 C 620 404 800 398 900 370 C 950 348 980 340 995 336" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-dasharray="700" stroke-dashoffset="700">
+      <animate attributeName="stroke-dashoffset" from="700" to="0" begin="0.3s" dur="2.2s" calcMode="spline" keySplines="0.65 0 0.35 1" fill="freeze"/>
+    </path>
+
+    <!-- The Darb door: an isometric block with an arch on its face -->
+    <g stroke-linejoin="round">
+      <path d="M 930 74 L 1058 142 L 930 210 L 802 142 Z" fill="url(#top)" stroke="url(#top)" stroke-width="10"/>
+      <path d="M 802 142 L 930 210 L 930 362 L 802 294 Z" fill="url(#left)" stroke="url(#left)" stroke-width="10"/>
+      <path d="M 930 210 L 1058 142 L 1058 294 L 930 362 Z" fill="url(#right)" stroke="url(#right)" stroke-width="10"/>
+      <g transform="translate(930 210) skewY(-28)">
+        <path d="M 30 152 V 72 A 34 34 0 0 1 98 72 V 152 Z" fill="url(#gold)" opacity="0.55">
+          <animate attributeName="opacity" from="0.55" to="1" begin="2.2s" dur="0.8s" fill="freeze"/>
+        </path>
+        <path d="M 30 152 V 72 A 34 34 0 0 1 98 72 V 152" fill="none" stroke="#fbf7ec" stroke-width="14" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- Words -->
+    <g font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="72" y="150" fill="#fbf7ec" font-size="60" font-weight="700" letter-spacing="-1">Nour Alden Mousa</text>
+      <text x="74" y="200" fill="#f0c77a" font-size="25" font-weight="500">Founder and engineer of Darb</text>
+      <rect x="74" y="230" width="380" height="2" fill="url(#rule)"/>
+      <text x="74" y="276" fill="#a9b8ad" font-size="19">
+        <tspan x="74">Full-stack and mobile software engineer. I build the</tspan>
+        <tspan x="74" dy="30">search, maps and apps that connect people to local</tspan>
+        <tspan x="74" dy="30">businesses, from the data model to the last pixel.</tspan>
+      </text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="27.5" fill="none" stroke="#1d5a43" stroke-opacity="0.6"/>
+</svg>

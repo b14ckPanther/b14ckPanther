@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="t d">
+  <title id="t">Darb, a local business directory for Israel</title>
+  <desc id="d">Describe what you need in your own words. Darb reads what you want, where, and what it must have. 13,000+ real businesses across 1,138 places and 211 kinds of business, about 1,500 tests on every pull request.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08241a"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="900" cy="250" r="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9a54c" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#d9a54c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0c77a"/>
+      <stop offset="1" stop-color="#b9852f"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="620" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <rect width="1200" height="620" fill="url(#bg)"/>
+    <rect width="1200" height="620" fill="url(#glow)"/>
+
+    <!-- Brand row -->
+    <path d="M 66 96 V 74 A 11 11 0 0 1 88 74 V 96 Z" fill="url(#gold)"/>
+    <path d="M 66 96 V 74 A 11 11 0 0 1 88 74 V 96" fill="none" stroke="#fbf7ec" stroke-width="5" stroke-linecap="round"/>
+    <text x="104" y="96" fill="#fbf7ec" font-size="30" font-weight="700">Darb</text>
+    <text x="1136" y="94" fill="#a9b8ad" font-size="18" text-anchor="end">darb.co.il</text>
+
+    <!-- Pitch -->
+    <text fill="#fbf7ec" font-size="40" font-weight="700" letter-spacing="-0.6">
+      <tspan x="64" y="182">Every business, in every</tspan>
+      <tspan x="64" dy="50">town, one search away.</tspan>
+    </text>
+    <text fill="#a9b8ad" font-size="18.5">
+      <tspan x="64" y="290">A local business directory for Israel. Describe what</tspan>
+      <tspan x="64" dy="30">you need the way you'd say it to a friend. Darb reads</tspan>
+      <tspan x="64" dy="30">the intent, matches it against what each business</tspan>
+      <tspan x="64" dy="30">actually offers, and shows it on a map you can move</tspan>
+      <tspan x="64" dy="30">through.</tspan>
+    </text>
+
+    <!-- Search demo -->
+    <rect x="640" y="130" width="496" height="296" rx="22" fill="#03110c" fill-opacity="0.75" stroke="#0e3527"/>
+    <rect x="664" y="154" width="448" height="58" rx="29" fill="#08241a" stroke="#1d5a43"/>
+    <circle cx="697" cy="181" r="9" fill="none" stroke="#d9a54c" stroke-width="2.6"/>
+    <path d="M 704 188 L 712 196" stroke="#d9a54c" stroke-width="2.6" stroke-linecap="round"/>
+
+    <g fill="#a9b8ad" font-size="16">
+      <text x="688" y="262">What</text>
+      <text x="688" y="314">Where</text>
+      <text x="688" y="366">Must have</text>
+    </g>
+    <path d="M 688 284 H 1112 M 688 336 H 1112" stroke="#0e3527"/>
+
+    <!-- Three queries, one after another -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.3;0.333;1" dur="12s" repeatCount="indefinite"/>
+      <text x="728" y="189" fill="#fbf7ec" font-size="20">renovator who works Saturdays in Tamra</text>
+      <g fill="#f0c77a" font-size="19" font-weight="500">
+        <text x="820" y="262">Renovation contractor</text>
+        <text x="820" y="314">Tamra</text>
+        <text x="820" y="366">Works on Saturday</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.373;0.63;0.666;1" dur="12s" repeatCount="indefinite"/>
+      <text x="728" y="189" fill="#fbf7ec" font-size="20">a hair salon close to me</text>
+      <g fill="#f0c77a" font-size="19" font-weight="500">
+        <text x="820" y="262">Hair salon</text>
+        <text x="820" y="314">Near you</text>
+        <text x="820" y="366" fill="#4c7a66">Nothing extra</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.706;0.96;1" dur="12s" repeatCount="indefinite"/>
+      <text x="728" y="189" fill="#fbf7ec" font-size="20">gluten-free dinner in Akko, open now</text>
+      <g fill="#f0c77a" font-size="19" font-weight="500">
+        <text x="820" y="262">Gluten-free restaurant</text>
+        <text x="820" y="314">Akko</text>
+        <text x="820" y="366">Open now</text>
+      </g>
+    </g>
+    <text x="688" y="404" fill="#4c7a66" font-size="14">Answers instantly in the browser, then refines with a language model.</text>
+
+    <!-- Numbers -->
+    <path d="M 64 470 H 1136" stroke="#1d5a43" stroke-opacity="0.7"/>
+    <g font-size="34" font-weight="700" fill="#f0c77a">
+      <text x="64" y="530">13,000+</text>
+      <text x="340" y="530">1,138</text>
+      <text x="616" y="530">211</text>
+      <text x="892" y="530">~1,500</text>
+    </g>
+    <g font-size="16" fill="#a9b8ad">
+      <text x="64" y="562">real businesses, each with a source</text>
+      <text x="340" y="562">cities, towns and villages</text>
+      <text x="616" y="562">kinds of business in 18 sectors</text>
+      <text x="892" y="562">tests on every pull request</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="619" rx="27.5" fill="none" stroke="#1d5a43" stroke-opacity="0.6"/>
+</svg>

@@ -1,100 +1,85 @@
 <div align="center">
 
-<h1>Nour Alden Mousa</h1>
+<a href="https://zangeel.dev"><img src="assets/hero.svg" width="100%" alt="Nour Alden Mousa, founder and engineer of Darb. Full-stack and mobile software engineer building the search, maps and apps that connect people to local businesses."/></a>
 
-<p><strong>Full-Stack &amp; Mobile Software Engineer</strong></p>
+<br/><br/>
 
-<p>I design and build production software end to end: web platforms, mobile apps,<br/>
-and the databases, APIs and infrastructure underneath them.</p>
-
-<a href="https://portfolio.darb.co.il"><img src="https://img.shields.io/badge/Portfolio-portfolio.darb.co.il-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/nmprofessor/"><img src="https://img.shields.io/badge/LinkedIn-Nour_Alden_Mousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:founder@darb.co.il"><img src="https://img.shields.io/badge/Email-Get_in_touch-1F2937?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="https://zangeel.dev"><img src="https://img.shields.io/badge/Portfolio-zangeel.dev-d9a54c?style=for-the-badge&labelColor=0e3527" alt="Portfolio: zangeel.dev"/></a>
+<a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Darb-darb.co.il-f0c77a?style=for-the-badge&labelColor=0e3527" alt="Darb: darb.co.il"/></a>
+<a href="https://www.linkedin.com/in/nmprofessor/"><img src="https://img.shields.io/badge/LinkedIn-nmprofessor-1d5a43?style=for-the-badge&logo=linkedin&logoColor=fbf7ec&labelColor=0e3527" alt="LinkedIn"/></a>
+<a href="mailto:founder@darb.co.il"><img src="https://img.shields.io/badge/Email-founder@darb.co.il-1d5a43?style=for-the-badge&logo=maildotru&logoColor=fbf7ec&labelColor=0e3527" alt="Email founder@darb.co.il"/></a>
 
 </div>
 
 <br/>
 
-## About
+## Darb
 
-- Product-minded engineer who owns features from data model to final UI.
-- Ships multi-tenant SaaS on **Next.js, TypeScript and PostgreSQL**, and cross-platform mobile apps with **Flutter** and **React Native**.
-- Strong foundations in **Java** and **C**, relational database design (**PostgreSQL**, **MySQL**) and backend services in **Node.js**.
-- Cares about the parts users feel but rarely notice: performance, access control, responsive layouts and interaction details.
+*Darb* means *path* in Arabic. It's what I'm building full time with my co-founder Lama: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves.
 
-<br/>
+It covers the north of Israel today. The goal is every city, town and village in the country, and to expand beyond it from there.
 
-## Featured Work
-
-### Darb &nbsp;·&nbsp; [darb.co.il/en](https://darb.co.il/en)
-
-**Business experience platform for local businesses — live in production.**
-
-Darb gives each type of business (restaurants, booking-based services, shops, business pages) its own purpose-built product, while identity, data, media, branding and billing run on one shared platform core.
-
-- Multi-tenant architecture with multi-location businesses and role-based access control
-- Modular "vertical engines" built on a shared core, so new business types reuse the same foundation
-- Per-tenant branding and public-facing customer experiences
-- Media pipeline and storage architecture for business content
-- Monorepo managed with Turborepo and pnpm, deployed on Vercel
-
-<a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Visit_Darb-darb.co.il%2Fen-0EA5E9?style=flat-square&labelColor=0F172A" alt="Visit Darb"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Turborepo-111827?style=flat-square&logo=turborepo&logoColor=EF4444" alt="Turborepo"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<a href="https://darb.co.il/en"><img src="assets/darb.svg" width="100%" alt="Darb search: a request in plain words is read as what, where and must-have. 13,000+ real businesses across 1,138 places and 211 kinds of business, about 1,500 tests on every pull request."/></a>
 
 <br/>
 
-### YellowShifts
+<img src="assets/darb-paths.svg" width="100%" alt="One platform with paths to every app: Darb, Darb Helpers and Darb Admin on one side; Darb REST, YellowShifts, Caramel and Raghad Beauty on the other."/>
 
-**Workforce operations app for multi-station teams.**
+**How it's built**
 
-A mobile-first system that connects employee availability, shift scheduling, attendance and management workflows across several stations.
+- **Two-lane search.** An instant index answers in the browser as you type. A language model then reads the intent under a strict schema and a 1.5 s budget, and matches it against what each business offers, down to single menu items. If the model is slow, the instant results stand on their own.
+- **One continuous map.** Country, town, category and business are levels of one camera on MapLibre GL, with self-hosted vector tiles on Cloudflare R2, so there's no per-view map bill and no third-party tracking.
+- **Real data with sources.** Listings come from government registers and OpenStreetMap, deduplicated and geocoded. Darb Helpers and the admin's street capture fill in the towns the open maps miss, and every addition is reviewed before it goes live.
+- **Nothing ships on a red build.** Type checks, about 1,500 unit and integration tests against a real database, Playwright on desktop and phone, WCAG AA checks on every page, per-route performance budgets and a 103-query search quality set run on every pull request.
 
-- Scheduling and availability flows built around how station teams actually work
-- NFC-based on-site attendance verification
-- Station-level roles and permissions, realtime updates, reporting and audit trail
+<sub>Next.js 16 · NestJS · PostgreSQL with PostGIS and pgvector · Redis · Prisma · MapLibre GL · Cloudflare R2 · Clerk · Turborepo</sub>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-<br/>
-
-### More Projects
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **Caramel** | Restaurant website with a full admin system for menus, media, branding, opening hours and content | Next.js · Supabase · PostgreSQL |
-| **BudgetPal** | Personal finance app built around zero-based budgeting | Next.js · TypeScript · Firebase |
-| **Nexus Chronicle** | Interactive story experience combining motion design with LLM-driven narrative | Next.js · Framer Motion · LLM APIs |
-
-More case studies at **[portfolio.darb.co.il](https://portfolio.darb.co.il)**.
+<a href="https://darb.co.il/en"><img src="https://img.shields.io/badge/Open_Darb-darb.co.il-d9a54c?style=flat-square&labelColor=0e3527" alt="Open Darb"/></a>
+<a href="https://github.com/b14ckPanther/Darb-City"><img src="https://img.shields.io/badge/Source-Darb--City-1d5a43?style=flat-square&logo=github&logoColor=fbf7ec&labelColor=0e3527" alt="Darb-City source"/></a>
 
 <br/>
 
-## Tech Stack
+## More work
+
+<p>
+<a href="https://paz.darb.co.il"><img src="assets/projects/yellowshifts.svg" width="49%" alt="YellowShifts: shift scheduling and NFC attendance for fuel stations, in pilot at a working Paz station."/></a>
+<a href="https://rest.darb.co.il"><img src="assets/projects/darb-rest.svg" width="49%" alt="Darb REST: digital menus and WhatsApp ordering for restaurants and cafés, run by the owners."/></a>
+</p>
+<p>
+<a href="https://caramel.darb.co.il"><img src="assets/projects/caramel.svg" width="49%" alt="Caramel: a menu where caramel pours down the page and wraps each dish. Built with Lama."/></a>
+<a href="https://zangeel.dev"><img src="assets/projects/nours-world.svg" width="49%" alt="Nour's World: a playable 3D portfolio. Drive an island where every landmark is a product."/></a>
+</p>
+
+<sub>Source: [PazShifts](https://github.com/b14ckPanther/PazShifts) (YellowShifts), [Darb_Rest](https://github.com/b14ckPanther/Darb_Rest), [Caramel](https://github.com/Lzbedat3/Caramel_next) on Lama's profile, [Nour's World](https://github.com/b14ckPanther/Nours-World) (public showcase).</sub>
+
+<br/>
+
+## Toolbox
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,js,ts,dart,py,php,html,css" height="40" alt="Languages"/> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react" height="40" alt="Mobile"/> <br/><sub>Flutter · React Native</sub> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,threejs,vite" height="40" alt="Frontend"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,supabase,firebase" height="40" alt="Backend"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" height="40" alt="Databases"/> |
-| **DevOps &amp; Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,nginx,linux,figma,vscode" height="40" alt="DevOps and tools"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,c,dart,py&theme=dark" height="40" alt="TypeScript, JavaScript, Java, C, Dart, Python"/> |
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs&theme=dark" height="40" alt="Next.js, React, Tailwind CSS, Three.js"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" height="40" alt="Flutter, React Native"/><br/><sub>Flutter, React Native with Expo</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,supabase&theme=dark" height="40" alt="Node.js, NestJS, Prisma, Supabase"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" height="40" alt="PostgreSQL, Redis, MySQL"/> |
+| **Ship** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,githubactions,linux,figma&theme=dark" height="40" alt="Vercel, Cloudflare, Docker, GitHub Actions, Linux, Figma"/> |
 
 <br/>
 
-## Get in Touch
+## Contributions
 
-Open to full-time software engineering roles (full-stack, frontend or mobile).
-The fastest way to reach me is by [email](mailto:founder@darb.co.il) or on [LinkedIn](https://www.linkedin.com/in/nmprofessor/).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b14ckPanther/b14ckPanther/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b14ckPanther/b14ckPanther/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/b14ckPanther/b14ckPanther/output/snake-dark.svg" width="100%" alt="Contribution graph eaten by a gold snake"/>
+</picture>
+
+<br/>
+
+## Get in touch
+
+I'm happy to talk about Darb, partnerships, local business tech, or engineering work. Email [founder@darb.co.il](mailto:founder@darb.co.il), find me on [LinkedIn](https://www.linkedin.com/in/nmprofessor/), or drive around [zangeel.dev](https://zangeel.dev).
 
 <br/>
 
