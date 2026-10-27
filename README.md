@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/darb-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/darb-light.svg"/>
-  <img src="assets/sections/darb-dark.svg" width="100%" alt="Darb, my personal project. Darb is my own product, not an employer's. Darb means path in Arabic. I founded it with Lama, my co-founder, and engineered it from the ground up: one path to every local business, and one platform that connects the people searching, the people adding businesses, and the businesses themselves. It covers the north of Israel today. The goal is every city, town and village in the country, and to expand beyond it from there."/>
+  <img src="assets/sections/darb-dark.svg" width="100%" alt="Darb, my personal project. Darb is mine, not something I built for an employer. The name means path in Arabic. Lama, my co-founder, and I started it from nothing, and I engineered the whole platform myself, from the database up. People search it for local businesses, friends add the places missing from their towns, and the businesses run their own pages on it. Right now it covers the north of Israel. I want it in every town in the country, and then beyond."/>
 </picture>
 
 <a href="https://darb.co.il/en"><img src="assets/darb.svg" width="100%" alt="Darb search: a request in plain words is read as what, where and must-have. 13,000+ real businesses across 1,138 places and 211 kinds of business, about 1,500 tests on every pull request."/></a>
@@ -30,7 +30,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/darb-built-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/darb-built-light.svg"/>
-  <img src="assets/sections/darb-built-dark.svg" width="100%" alt="How it's built. Its own backend, built from zero: no backend-as-a-service; a NestJS API we wrote ourselves for search, places, media, admin, helpers and pricing, on our own PostgreSQL schema with PostGIS and pgvector, Redis for caching and rate limits, and shared zod contracts so a mismatched field fails the build, not production; the only outside service in the core is Clerk for sign-in. Two-lane search: an instant index answers in the browser as you type, then a language model reads the intent under a strict schema and a 1.5 s budget and matches it down to single menu items. One continuous map: country, town, category and business are levels of one camera on MapLibre GL with self-hosted vector tiles on Cloudflare R2. Real data with sources: government registers and OpenStreetMap, deduplicated and geocoded, filled in by Darb Helpers and street capture, every addition reviewed. Nothing ships on a red build: type checks, about 1,500 tests against a real database, Playwright on desktop and phone, WCAG AA checks, per-route performance budgets and a 103-query search quality set on every pull request. Stack: Next.js 16, NestJS, Prisma, PostgreSQL, PostGIS, pgvector, Redis, MapLibre GL, Cloudflare R2, Railway, Vercel, Turborepo."/>
+  <img src="assets/sections/darb-built-dark.svg" width="100%" alt="How it's built. Our own backend: No backend-as-a-service. We wrote the NestJS API for search, places, media, admin, helpers and pricing on our own PostgreSQL schema (PostGIS and pgvector), with Redis for caching and rate limits. The API and the web app share the same zod contracts, so a field that doesn't match breaks the build instead of production. Clerk handles sign-in, and that's the only outside service in the core. Search in two steps: Results appear instantly from an index in the browser while you type. Then a language model works out what you meant, with a strict schema and 1.5 seconds to answer, and matches it against what each business offers, down to single menu items. If the model is slow, you still have the instant results. One map for everything: Country, town, category and business are the same MapLibre map at different zoom levels. We host the vector tiles ourselves on Cloudflare R2, so there's no bill per map view and nobody tracking our users. Data you can trace: Listings come from government registers and OpenStreetMap, deduplicated and geocoded. Where the open maps miss a town, Darb Helpers and our own street capture fill the gap, and every addition gets reviewed before it goes live. A red build doesn't ship: Every pull request runs type checks, about 1,500 unit and integration tests against a real database, Playwright on desktop and phone, WCAG AA checks on every page, performance budgets per route, and 103 real search queries that catch drops in result quality. Stack: Next.js 16, NestJS, Prisma, PostgreSQL, PostGIS, pgvector, Redis, MapLibre GL, Cloudflare R2, Railway, Vercel, Turborepo."/>
 </picture>
 
 <a href="https://darb.co.il/en"><img src="assets/buttons/open-darb.svg" height="40" alt="Open Darb"/></a>
@@ -63,7 +63,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/lab-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/lab-light.svg"/>
-  <img src="assets/sections/lab-dark.svg" width="100%" alt="Darb Lab. Darb Lab is where I build with the stacks Darb doesn't use: Java and Spring, C# and .NET, Python and machine learning. Each one is a product of its own, and they all share one world. Every Lab project sends its real events into Darb Budokai, an RPG powered by my real life."/>
+  <img src="assets/sections/lab-dark.svg" width="100%" alt="Darb Lab. Darb doesn't need Java, .NET or machine learning, so I learn them here by building real things with them. Each project works on its own, but they're also connected: they all send events into Darb Budokai, a game where my character levels up from what I actually do during the day."/>
 </picture>
 
 <p>
@@ -111,7 +111,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/contact-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/contact-light.svg"/>
-  <img src="assets/sections/contact-dark.svg" width="100%" alt="Get in touch. I'm looking for a full-time software engineering role: full-stack, frontend or mobile. I own features from the data model to the final UI, and Darb shows how I work at scale."/>
+  <img src="assets/sections/contact-dark.svg" width="100%" alt="Get in touch. I'm looking for a full-time job as a software engineer, full-stack, frontend or mobile. I like owning a feature all the way, from the data model to the last pixel, and Darb is the best example of how I work. If that sounds useful to your team, I'd love to talk."/>
 </picture>
 
 <a href="mailto:founder@darb.co.il"><img src="assets/buttons/email.svg" height="40" alt="Email founder@darb.co.il"/></a>
