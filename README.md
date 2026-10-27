@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/darb-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/darb-light.svg"/>
-  <img src="assets/sections/darb-dark.svg" width="100%" alt="Darb, my personal project. Darb is mine, not something I built for an employer. The name means path in Arabic. Lama, my co-founder, and I started it from nothing, and I engineered the whole platform myself, from the database up. People search it for local businesses, friends add the places missing from their towns, and the businesses run their own pages on it. Right now it covers the north of Israel. I want it in every town in the country, and then beyond."/>
+  <img src="assets/sections/darb-dark.svg" width="100%" alt="Darb, my personal project. Darb is my own thing, not something I built for a company. The name means path in Arabic. Lama, my co-founder, and I started it from scratch, and I built the whole thing myself, from the database to the UI. People search it for local businesses, friends add the places missing from their towns, and the businesses run their own pages on it. Right now it covers the north of Israel. I want it in every town in the country, and then beyond."/>
 </picture>
 
 <a href="https://darb.co.il/en"><img src="assets/darb.svg" width="100%" alt="Darb search: a request in plain words is read as what, where and must-have. 13,000+ real businesses across 1,138 places and 211 kinds of business, about 1,500 tests on every pull request."/></a>
