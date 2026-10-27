@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+  <title id="t">Darb Scouter</title>
+  <desc id="d">Reads each new junior job in Israel at 07:00 and scores it against my CV, quote by quote. The model reads; plain, tested code scores No quote from the post, no points Hebrew and English hybrid search Built with Python, FastAPI, LangGraph, Elasticsearch. Status: working.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08241a"/>
+      <stop offset="1" stop-color="#03110c"/>
+    </linearGradient>
+    <clipPath id="app" clipPathUnits="objectBoundingBox"><rect width="1" height="1" rx="0.23"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="24" fill="url(#bg)" stroke="#1d5a43" stroke-opacity="0.8"/>
+  <g transform="translate(496 36)">
+    <rect width="64" height="64" rx="15" fill="#0e3527"/>
+    <svg x="6" y="6" width="52" height="52" viewBox="0 0 64 64">
+      <defs><radialGradient id="sb" cx=".36" cy=".3" r=".78"><stop offset="0" stop-color="#fff4cc"/><stop offset=".42" stop-color="#ffae2e"/><stop offset="1" stop-color="#c25a07"/></radialGradient></defs>
+      <path d="M6 14 L40 18 L39 50 L8 44 Z" fill="#3dff7e" fill-opacity=".85" stroke="#03210f" stroke-width="3" stroke-linejoin="round"/>
+      <circle cx="44" cy="38" r="17" fill="url(#sb)" stroke="#7a3303" stroke-width="2"/>
+      <polygon points="44,30 46.2,35.2 51.6,35.4 47.4,38.8 48.8,44 44,41 39.2,44 40.6,38.8 36.4,35.4 41.8,35.2" fill="#d1203a"/>
+      <ellipse cx="38" cy="29" rx="5" ry="2.6" fill="#fff" opacity=".7" transform="rotate(-32 38 29)"/>
+    </svg>
+  </g>
+  <g font-family="Ubuntu, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <text x="40" y="76" fill="#fbf7ec" font-size="32" font-weight="700" letter-spacing="-0.4">Darb Scouter</text>
+  <text fill="#a9b8ad" font-size="18.5"><tspan x="40" y="114">Reads each new junior job in Israel at 07:00</tspan><tspan x="40" dy="26">and scores it against my CV, quote by quote.</tspan></text>
+  <path d="M 44 190 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="196" fill="#efe8d6" font-size="18">The model reads; plain, tested code scores</text>
+  <path d="M 44 224 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="230" fill="#efe8d6" font-size="18">No quote from the post, no points</text>
+  <path d="M 44 258 l 5 -5 l 5 5 l -5 5 Z" fill="#d9a54c"/><text x="66" y="264" fill="#efe8d6" font-size="18">Hebrew and English hybrid search</text>
+  <path d="M 40 290 H 560" stroke="#0e3527"/>
+  <text x="40" y="318" fill="#7f978a" font-size="15.5">Python, FastAPI, LangGraph, Elasticsearch</text>
+  <text x="560" y="318" fill="#f0c77a" font-size="16" font-weight="500" text-anchor="end">Working</text>
+  </g>
+</svg>

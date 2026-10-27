@@ -55,15 +55,33 @@ It covers the north of Israel today. The goal is every city, town and village in
 
 <br/>
 
+## Darb Lab
+
+Darb Lab is where I build with the stacks Darb doesn't use: Java and Spring, C# and .NET, Python and machine learning. Each one is a product of its own, and they all share one world. Every Lab project sends its real events into **Darb Budokai**, an RPG powered by my real life.
+
+<p>
+<a href="https://github.com/b14ckPanther/darb-scouter"><img src="assets/projects/darb-scouter.svg" width="49%" alt="Darb Scouter: reads each new junior job in Israel at 07:00 and scores it against my CV, quote by quote. Working."/></a>
+<a href="https://github.com/b14ckPanther/darb-budokai"><img src="assets/projects/darb-budokai.svg" width="49%" alt="Darb Budokai: the RPG my real life powers. Java 21, Spring Boot, Kafka and Angular. In build."/></a>
+</p>
+<p>
+<a href="https://github.com/b14ckPanther/darb-sennin"><img src="assets/projects/darb-sennin.svg" width="49%" alt="Darb Sennin: code practice with an honest reviewer that shows the evidence behind every grade. C#, .NET 10 and MongoDB. In build."/></a>
+<a href="https://github.com/b14ckPanther/darb-juryoku"><img src="assets/projects/darb-juryoku.svg" width="49%" alt="Darb Juryoku: a posture coach that runs in the browser with MediaPipe and a PyTorch model. Webcam frames never leave the device. In build."/></a>
+</p>
+
+<sub>Planned next: [Darb Capsule](https://github.com/b14ckPanther/darb-capsule) (Flutter companion with a live home-screen widget), [Darb Genki](https://github.com/b14ckPanther/darb-genki) (Budokai on Kubernetes, traced with OpenTelemetry), [Darb Ki](https://github.com/b14ckPanther/darb-ki) (AWS honeypots with ML attack sorting), [Darb Kinton](https://github.com/b14ckPanther/darb-kinton) (end-to-end encrypted transfer in Go).</sub>
+
+<br/>
+
 ## Toolbox
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,c,dart,py&theme=dark" height="40" alt="TypeScript, JavaScript, Java, C, Dart, Python"/> |
-| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs&theme=dark" height="40" alt="Next.js, React, Tailwind CSS, Three.js"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,dart,c&theme=dark" height="40" alt="TypeScript, JavaScript, Java, C#, Python, Dart, C"/> |
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,threejs&theme=dark" height="40" alt="Next.js, React, Angular, Tailwind CSS, Three.js"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" height="40" alt="Flutter, React Native"/><br/><sub>Flutter, React Native with Expo</sub> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,supabase&theme=dark" height="40" alt="Node.js, NestJS, Prisma, Supabase"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" height="40" alt="PostgreSQL, Redis, MySQL"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,fastapi,prisma,supabase&theme=dark" height="40" alt="Node.js, NestJS, Spring Boot, .NET, FastAPI, Prisma, Supabase"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,elasticsearch,mysql&theme=dark" height="40" alt="PostgreSQL, Redis, MongoDB, Elasticsearch, MySQL"/> |
+| **AI and ML** | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" alt="PyTorch"/><br/><sub>Claude API with structured outputs, LangGraph, MediaPipe, ONNX Runtime Web</sub> |
 | **Ship** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,githubactions,linux,figma&theme=dark" height="40" alt="Vercel, Cloudflare, Docker, GitHub Actions, Linux, Figma"/> |
 
 <br/>
